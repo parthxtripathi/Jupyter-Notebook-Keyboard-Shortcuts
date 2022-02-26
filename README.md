@@ -14,3 +14,5 @@
 | 2,3,4,5,6 | to heading 2,3,4,5,6 |
 | Up/K | select cell above |
 | Down/J | select cell below |
+| A/B | insert cell above/below |
+
