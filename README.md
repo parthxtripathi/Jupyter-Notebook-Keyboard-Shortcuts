@@ -31,3 +31,4 @@
 | I,I | interrupt kernel |
 | 0,0 | restart kernel |
 | Space | scroll down |
+| Shift-Space | scroll up |
