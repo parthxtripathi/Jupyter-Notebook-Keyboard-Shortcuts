@@ -4,3 +4,4 @@
 
 | Enter | enter edit mode |
 | ----- | --------------- |
+| Shift-Enter | run cell, select below |
