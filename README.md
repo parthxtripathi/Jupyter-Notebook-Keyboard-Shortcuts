@@ -24,4 +24,5 @@
 | Shift-M | merge cell below |
 | Ctrl-S | save and checkpoint |
 | L | toggle line numbers | 
+| O | toggle output |
 
