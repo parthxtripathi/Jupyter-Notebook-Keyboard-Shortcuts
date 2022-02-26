@@ -25,4 +25,4 @@
 | Ctrl-S | save and checkpoint |
 | L | toggle line numbers | 
 | O | toggle output |
-
+| Shift -O | toggle output scrolling |
