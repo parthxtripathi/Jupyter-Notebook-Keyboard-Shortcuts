@@ -23,3 +23,5 @@
 | D, D | delete selected cell |
 | Shift-M | merge cell below |
 | Ctrl-S | save and checkpoint |
+| L | toggle line numbers | 
+
