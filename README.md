@@ -9,3 +9,4 @@
 | Alt-Enter | run cell, insert below |
 | Y | to code |
 | M | to markdown |
+| R | to raw |
