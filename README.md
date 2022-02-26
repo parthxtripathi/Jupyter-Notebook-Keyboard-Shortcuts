@@ -26,3 +26,4 @@
 | L | toggle line numbers | 
 | O | toggle output |
 | Shift -O | toggle output scrolling |
+| Esc | close pager |
