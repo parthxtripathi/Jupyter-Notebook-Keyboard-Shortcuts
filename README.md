@@ -8,3 +8,4 @@
 | Ctrl-Enter | run cell |
 | Alt-Enter | run cell, insert below |
 | Y | to code |
+| M | to markdown |
