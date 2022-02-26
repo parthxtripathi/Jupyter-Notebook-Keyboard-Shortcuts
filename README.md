@@ -28,3 +28,4 @@
 | Shift -O | toggle output scrolling |
 | Esc | close pager |
 | H | show keyboard shortcut help dialog |
+| I,I | interrupt kernel |
