@@ -17,3 +17,4 @@
 | A/B | insert cell above/below |
 | X | cut selected cell |
 | C | copy selected cell |
+| Shift- V | paste cell above |
