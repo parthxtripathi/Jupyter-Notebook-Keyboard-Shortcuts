@@ -30,4 +30,4 @@
 | H | show keyboard shortcut help dialog |
 | I,I | interrupt kernel |
 | 0,0 | restart kernel |
-
+| Space | scroll down |
