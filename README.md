@@ -18,3 +18,4 @@
 | X | cut selected cell |
 | C | copy selected cell |
 | Shift- V | paste cell above |
+| V | paste cell below |
