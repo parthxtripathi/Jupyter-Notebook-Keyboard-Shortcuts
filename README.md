@@ -16,4 +16,4 @@
 | Down/J | select cell below |
 | A/B | insert cell above/below |
 | X | cut selected cell |
-
+| C | copy selected cell |
