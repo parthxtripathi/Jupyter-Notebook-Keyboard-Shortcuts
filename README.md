@@ -10,3 +10,4 @@
 | Y | to code |
 | M | to markdown |
 | R | to raw |
+| 1 | to heading 1 |
