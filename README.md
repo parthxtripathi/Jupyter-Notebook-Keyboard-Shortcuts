@@ -15,4 +15,5 @@
 | Up/K | select cell above |
 | Down/J | select cell below |
 | A/B | insert cell above/below |
+| X | cut selected cell |
 
