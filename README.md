@@ -6,3 +6,4 @@
 | ----- | --------------- |
 | Shift-Enter | run cell, select below |
 | Ctrl-Enter | run cell |
+| Alt-Enter | run cell, insert below |
