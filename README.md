@@ -32,3 +32,4 @@
 | 0,0 | restart kernel |
 | Space | scroll down |
 | Shift-Space | scroll up |
+| Shift | ignore |
