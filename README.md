@@ -20,3 +20,4 @@
 | Shift- V | paste cell above |
 | V | paste cell below |
 | Z | undo last cell deletion |
+| D, D | delete selected cell |
