@@ -21,3 +21,5 @@
 | V | paste cell below |
 | Z | undo last cell deletion |
 | D, D | delete selected cell |
+| Shift-M | merge cell below |
+| Ctrl-S | save and checkpoint |
