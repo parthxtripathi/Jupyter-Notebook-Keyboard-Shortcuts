@@ -12,3 +12,4 @@
 | R | to raw |
 | 1 | to heading 1 |
 | 2,3,4,5,6 | to heading 2,3,4,5,6 |
+| Up/K | select cell above |
