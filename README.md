@@ -44,3 +44,4 @@
 | Ctrl-] | indent |
 | Ctrl-[ | dedent |
 | Ctrl-A | select all |
+| Ctrl-Z | undo |
