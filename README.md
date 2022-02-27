@@ -43,3 +43,4 @@
 | Shift-Tab | tooltip |
 | Ctrl-] | indent |
 | Ctrl-[ | dedent |
+| Ctrl-A | select all |
