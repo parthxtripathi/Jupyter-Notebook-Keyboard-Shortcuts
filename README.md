@@ -38,3 +38,6 @@
 
 
 ## Edit Mode (press Enter to enable)
+| Tab | Code completion or indent |
+| ----- | --------------- |
+
