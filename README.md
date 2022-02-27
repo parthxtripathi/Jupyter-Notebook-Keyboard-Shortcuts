@@ -41,3 +41,4 @@
 | Tab | Code completion or indent |
 | ----- | --------------- |
 | Shift-Tab | tooltip |
+| Ctrl-] | indent |
