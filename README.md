@@ -42,3 +42,4 @@
 | ----- | --------------- |
 | Shift-Tab | tooltip |
 | Ctrl-] | indent |
+| Ctrl-[ | dedent |
