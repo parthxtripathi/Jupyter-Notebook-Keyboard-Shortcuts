@@ -1,6 +1,6 @@
 # Jupyter-Notebook-Keyboard-Shortcuts
 
-## Command Mode (press Esc to enable)
+## Command Mode (press Esc to enable)       
 
 | Enter | enter edit mode |
 | ----- | --------------- |
@@ -33,3 +33,7 @@
 | Space | scroll down |
 | Shift-Space | scroll up |
 | Shift | ignore |
+
+
+
+## Edit Mode (press Enter to enable)
