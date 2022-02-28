@@ -56,5 +56,5 @@
 | Ctrl-Backspace | delete word before |
 | Ctrl-Delete | delete word after |
 | Esc | command mode |
-
+| Ctrl-M | command mode |
 
