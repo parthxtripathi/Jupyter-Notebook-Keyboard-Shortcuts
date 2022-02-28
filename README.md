@@ -46,3 +46,5 @@
 | Ctrl-A | select all |
 | Ctrl-Z | undo |
 | Ctrl-Shift-Z | redo | 
+| Ctrl-Y | Redo |
+| Ctrl-Home | go to cell start |
