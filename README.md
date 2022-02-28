@@ -57,4 +57,5 @@
 | Ctrl-Delete | delete word after |
 | Esc | command mode |
 | Ctrl-M | command mode |
+| Shift-Enter | run cell, select below |
 
