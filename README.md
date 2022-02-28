@@ -58,4 +58,4 @@
 | Esc | command mode |
 | Ctrl-M | command mode |
 | Shift-Enter | run cell, select below |
-
+| Ctrl-Enter | run cell |
