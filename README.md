@@ -45,3 +45,4 @@
 | Ctrl-[ | dedent |
 | Ctrl-A | select all |
 | Ctrl-Z | undo |
+| Ctrl-Shift-Z | redo | 
