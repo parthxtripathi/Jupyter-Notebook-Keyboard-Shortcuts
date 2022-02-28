@@ -64,3 +64,4 @@
 | Ctrl-Shift-- | split cell |
 | Ctrl-S || save and checkpoint |
 | Up | move cursor up or previous cell |
+| Down | move cursor down or next cell |
