@@ -63,3 +63,4 @@
 | Ctrl-Shift-Subtract | split cell |
 | Ctrl-Shift-- | split cell |
 | Ctrl-S || save and checkpoint |
+| Up | move cursor up or previous cell |
