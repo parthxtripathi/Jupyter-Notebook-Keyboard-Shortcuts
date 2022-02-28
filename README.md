@@ -52,3 +52,4 @@
 | Ctrl-End | go to cell end |
 | Ctrl-Down | go to cell end |
 | Ctrl-Left | go one word left |
+| Ctrl-Right | go one word right |
