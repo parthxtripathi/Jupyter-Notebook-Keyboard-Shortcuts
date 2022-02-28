@@ -48,3 +48,4 @@
 | Ctrl-Shift-Z | redo | 
 | Ctrl-Y | Redo |
 | Ctrl-Home | go to cell start |
+| Ctrl-Up | go to cell start |
