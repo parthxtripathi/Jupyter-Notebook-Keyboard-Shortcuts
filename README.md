@@ -54,4 +54,6 @@
 | Ctrl-Left | go one word left |
 | Ctrl-Right | go one word right |
 | Ctrl-Backspace | delete word before |
+| Ctrl-Delete | delete word after |
+
 
