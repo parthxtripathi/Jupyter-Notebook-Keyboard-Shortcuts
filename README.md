@@ -55,5 +55,6 @@
 | Ctrl-Right | go one word right |
 | Ctrl-Backspace | delete word before |
 | Ctrl-Delete | delete word after |
+| Esc | command mode |
 
 
