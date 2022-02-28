@@ -61,3 +61,4 @@
 | Ctrl-Enter | run cell |
 | Alt-Enter | run cell, insert below |
 | Ctrl-Shift-Subtract | split cell |
+| Ctrl-Shift-- | split cell |
